@@ -1,3 +1,5 @@
+# O(n^2)
+
 # Definition for a pair.
 # class Pair:
 #     def __init__(self, key: int, value: str):
